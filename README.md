@@ -38,3 +38,7 @@ Coded entirely javascript using the library discord.js.
      height="120px"
      style="float: initial; margin-right: 30px;" />
      
+ <img src="https://styles.redditmedia.com/t5_3eu72/styles/communityIcon_mkcebxqhkfs41.png"
+     alt="env icon"
+     height="120px"
+     style="float: initial; margin-right: 30px;" />
