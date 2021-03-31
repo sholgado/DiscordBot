@@ -1,0 +1,15 @@
+{
+  "name": "Sergio's Bot",
+  "author": "Sergio",
+  "servers": [{
+    "name":"Prousercoding",
+    "founded":"3/27/21",
+    "active": true,
+    "HumanUsers": 6,
+    "Bots": [{
+    "invite-link":"https://discord.gg/G3crPVHWdQ",
+    "Number": 5,
+    "Active": 4,
+    }]
+  }]
+}
