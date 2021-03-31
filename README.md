@@ -1,2 +1,2 @@
-#Sergio's Bot
-##Discord.js bot
+# Sergio's Bot
+## Discord.js bot
