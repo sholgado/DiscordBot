@@ -31,17 +31,17 @@ Coded entirely javascript using the library discord.js.
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
      alt="Js icon"
      height="120px"
-     style="float: initial; margin-right: 10px;display:inline-block;
+     style="float: left;display:inline-block;
     white-space:nowrap;" />
      
 <img src="https://i.stack.imgur.com/lZyF4.png"
      alt="env icon"
      height="120px"
-     style="float: initial; margin-right: 30px;display:inline-block;
+     style="float: left;display:inline-block;
     white-space:nowrap;" />
      
  <img src="https://styles.redditmedia.com/t5_3eu72/styles/communityIcon_mkcebxqhkfs41.png"
      alt="env icon"
      height="120px"
-     style="float: initial; margin-right: 30px; display:inline-block;
+     style="float: left;display:inline-block;
     white-space:nowrap;" />
