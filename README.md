@@ -27,7 +27,9 @@ const code= toString(File with code);
     }  
 ```
 Coded entirely javascript using the library discord.js.
-
+<div style="height: 360px;
+            width: 720px;">
+    
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
      alt="Js icon"
      height="120px"
@@ -45,3 +47,4 @@ Coded entirely javascript using the library discord.js.
      height="120px"
      style="float: left;display:inline-block;
     white-space:nowrap;" />
+</div>
