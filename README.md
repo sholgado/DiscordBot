@@ -26,3 +26,6 @@ const code= toString(File with code);
       message.reply(message.channel.send('```' + code + '```'));
     }  
 ```
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+     alt="Js icon"
+     style="float: left; margin-right: 10px;height:80px;" />
