@@ -31,10 +31,10 @@ Coded entirely javascript using the library discord.js.
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
      alt="Js icon"
      height="120px"
-     style="float: inherit; margin-right: 10px;" />
+     style="float: none; margin-right: 10px;" />
      
 <img src="https://i.stack.imgur.com/lZyF4.png"
      alt="env icon"
      height="120px"
-     style="float: inherit; margin-left: 50px;" />
+     style="float: none; margin-left: 50px;" />
      
