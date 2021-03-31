@@ -26,6 +26,15 @@ const code= toString(File with code);
       message.reply(message.channel.send('```' + code + '```'));
     }  
 ```
+Coded entirely javascript using the library discord.js.
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
      alt="Js icon"
-     style="float: left; margin-right: 10px;height:80px;" />
+     height="120px"
+     style="float: left; margin-right: 10px;" />
+     
+<img src="https://i.stack.imgur.com/lZyF4.png"
+     alt="env icon"
+     height="120px"
+     style="float: left; margin-right: 10px;" />
+     
