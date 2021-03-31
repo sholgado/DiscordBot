@@ -34,17 +34,20 @@ Coded entirely javascript using the library discord.js.
      alt="Js icon"
      height="120px"
      style="float: left;display:inline-block;
-    white-space:nowrap;" />
+    white-space:nowrap;
+    position: relative;" />
      
 <img src="https://i.stack.imgur.com/lZyF4.png"
      alt="env icon"
      height="120px"
      style="float: left;display:inline-block;
-    white-space:nowrap;" />
+    white-space:nowrap;
+    position: relative;" />
      
  <img src="https://styles.redditmedia.com/t5_3eu72/styles/communityIcon_mkcebxqhkfs41.png"
      alt="env icon"
      height="120px"
      style="float: left;display:inline-block;
-    white-space:nowrap;" />
+    white-space:nowrap;
+    position: relative;" />
 </div>
