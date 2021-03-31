@@ -36,5 +36,5 @@ Coded entirely javascript using the library discord.js.
 <img src="https://i.stack.imgur.com/lZyF4.png"
      alt="env icon"
      height="120px"
-     style="float: inherit; margin-right: 10px;" />
+     style="float: inherit; margin-left: 50px;" />
      
