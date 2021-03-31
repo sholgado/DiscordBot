@@ -20,4 +20,9 @@ const attachment = new Attachment(File Path);
 * Send **Memes** obtained through an API
 
 * Embed **Code**
-
+```
+const code= toString(File with code);
+    if(command === 'code'){
+      message.reply(message.channel.send('```' + code + '```'));
+    }  
+```
